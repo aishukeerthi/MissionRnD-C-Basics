@@ -12,6 +12,8 @@ NOTES:
 */
 
 int sum(int a, int b)
-{
-	return 0;
+{ 
+	int res;
+	res = a + b;
+	return res;
 }
